@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch>=1.6.0
+transformers>=4.33.0
+datasets
+accelerate>=0.20.1
+sentence_transformers
+peft
+tqdm
+numpy<2
